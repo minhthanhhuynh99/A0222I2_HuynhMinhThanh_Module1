@@ -1,0 +1,16 @@
+So sánh ưu điểm và nhược điểm của Pseudo-code và Flow-chart:
+	* Pseudo-code
+		Ưu điểm:    Được viết bằng văn bản để thể hiện các bước mô tả quá trình giải pháp
+			      không cần quy tắc được sử dụng
+				gỡ lỗi dễ dàng
+
+		Nhược điểm: khó hiểu 
+				khi tực hiện dễ lúng túng 
+	* Flow-chart
+		Ưu điểm:    dễ dàng gải thích
+				cho thấy luồng đi của dữ liệu rõ ràng bằng cách sử dụng các biểu tượng theo quy tắc
+				thực hiện theo quy tắc
+
+		Nhược điểm: gỡ lỗi khó khăn hơn
+
+					

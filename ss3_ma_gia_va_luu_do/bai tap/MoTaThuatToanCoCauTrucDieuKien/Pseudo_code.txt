@@ -1,0 +1,17 @@
+* Mô tả thuật toán có cấu trúc điều kiện:
+	-Psrudo_code:
+		
+			Begin
+			   Input N
+				If N >= 75 them A
+				  else
+				If 60 =< N <75 them B
+				  else
+				If 45 =< N <60 them c
+				  else
+				If 35 =< N <45 them D
+				  else
+				If N < 35 them E
+				End
+			   End
+			End
