@@ -20,20 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/A0222I2_HuynhMinhThanh_Module1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_git_html/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_git_html/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_git_html/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_git_html/.idea/ss4_git_html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss4_git_html/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/tao_form_don_gian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/thuchanh/form_tim_kiem_gg2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/thuchanh/form_tim_kiếm_gg1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/thuchanh/tao_from_co_ban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/tao_form_don_gian_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1646718819913</updated>
       <workItem from="1646718822834" duration="103000" />
-      <workItem from="1646828593618" duration="7068000" />
+      <workItem from="1646828593618" duration="7268000" />
+      <workItem from="1646843027571" duration="2279000" />
     </task>
     <servers />
   </component>
@@ -96,6 +85,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646829420718">
