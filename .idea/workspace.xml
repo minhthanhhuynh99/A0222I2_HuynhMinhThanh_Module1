@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/tao_bang_co_ban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/tao_bang_co_ban2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/tao_bang_nang_cao_Co_Vua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/thuchanh/thuc_hanh_tao_bang_co_ban1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/thuchanh/thuc_hanh_tao_bang_nâng_cao.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,9 @@
       <workItem from="1646828593618" duration="7268000" />
       <workItem from="1646843027571" duration="3320000" />
       <workItem from="1646913023195" duration="119000" />
-      <workItem from="1646967896752" duration="2949000" />
+      <workItem from="1646967896752" duration="3240000" />
+      <workItem from="1646973178651" duration="7000" />
+      <workItem from="1646987749860" duration="1393000" />
     </task>
     <servers />
   </component>
@@ -92,10 +93,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646829420718">
+    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646988906058">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1646829420718" />
+    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1646988906058" />
     <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1646718926102">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
