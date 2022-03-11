@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/tao_form_don_gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/tao_form_don_gian.html" afterDir="false" />
-    </list>
+    <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +71,7 @@
       <workItem from="1646973178651" duration="7000" />
       <workItem from="1646987749860" duration="1393000" />
       <workItem from="1646995904130" duration="8299000" />
-      <workItem from="1647006678509" duration="1388000" />
+      <workItem from="1647006678509" duration="1796000" />
     </task>
     <servers />
   </component>
