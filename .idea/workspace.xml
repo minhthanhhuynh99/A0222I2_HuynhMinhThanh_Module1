@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/thuchanh/thuc_hanh_tao_bang_co_ban1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/thuchanh/thuc_hanh_tao_bang_nâng_cao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/tao_bang_nang_cao2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +73,7 @@
       <workItem from="1646967896752" duration="3240000" />
       <workItem from="1646973178651" duration="7000" />
       <workItem from="1646987749860" duration="1393000" />
+      <workItem from="1646995904130" duration="8056000" />
     </task>
     <servers />
   </component>
