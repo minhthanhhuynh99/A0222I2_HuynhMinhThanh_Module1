@@ -20,13 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/code_thu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_hien_thi_dau_ra_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_hien_thi_dau_ra_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_hien_thi_dau_ra_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_hien_thi_dau_ra_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_nhung_js_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_nhung_js_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/js_3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/code_thu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_nhung_js_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_nhung_js_2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -60,6 +59,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,7 +83,8 @@
       <workItem from="1647052735016" duration="2460000" />
       <workItem from="1647055500300" duration="123000" />
       <workItem from="1647061704349" duration="47000" />
-      <workItem from="1647261580700" duration="605000" />
+      <workItem from="1647261580700" duration="1526000" />
+      <workItem from="1647263756684" duration="406000" />
     </task>
     <servers />
   </component>
@@ -107,9 +108,17 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647053335909" />
+    <state x="499" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647264077456">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1647264077456" />
     <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1646718926102">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1646718926102" />
+    <state x="277" y="106" key="SettingsEditor" timestamp="1647263862702">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="277" y="106" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1647263862702" />
   </component>
 </project>
