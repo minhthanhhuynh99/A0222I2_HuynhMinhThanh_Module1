@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_nhung_js_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/js_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7_bien_va_du_lieu_toan_tu/thuc_hanh/th_khai_bao_va_su_dung_bien_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7_bien_va_du_lieu_toan_tu/thuc_hanh/th_khai_bao_va_su_dung_bien_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7_bien_va_du_lieu_toan_tu/thuc_hanh/th_khai_bao_va_su_dung_bien_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7_bien_va_du_lieu_toan_tu/thuc_hanh/th_su_dung_toan_tu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_html_form_amp_table/baitap/code_thu.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_nhung_js_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_nhung_js_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_nhung_js_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6_tong_quan_java_script/thuc hanh/bai_th_nhung_js_3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,9 @@
       <workItem from="1647055500300" duration="123000" />
       <workItem from="1647061704349" duration="47000" />
       <workItem from="1647261580700" duration="1526000" />
-      <workItem from="1647263756684" duration="406000" />
+      <workItem from="1647263756684" duration="3381000" />
+      <workItem from="1647269290974" duration="755000" />
+      <workItem from="1647362737563" duration="3961000" />
     </task>
     <servers />
   </component>
@@ -104,14 +108,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647053335909">
+    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647363088323">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647053335909" />
-    <state x="499" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647264077456">
+    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647363088323" />
+    <state x="499" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647366383371">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="499" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1647264077456" />
+    <state x="499" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1647366383371" />
     <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1646718926102">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
