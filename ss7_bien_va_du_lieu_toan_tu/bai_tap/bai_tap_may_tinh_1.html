@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>Caculator</h1>
+    <form>
+        <input type="text" id="nhap1">
+        <input type="text" id="nhap2">
+        <br>
+        <br>
+        <button type="button" onclick="function1()">Addition(+)</button>
+        <button type="button" onclick="function2()">Subtration(-)</button>
+        <button type="button" onclick="function3()">Multiplication(x)</button>
+        <button type="button" onclick="function4()">Division(/)</button>
+        <span>Results</span>
+        <input id="results"></input
+    </form>
+</body>
+<script>
+    function function1() {
+        let a = document.getElementById("nhap1").value;
+        let b = document.getElementById("nhap2").value;
+        x = parseInt(a) + parseInt(b)
+        document.getElementById("results").value = x ;
+    }
+    function function2() {
+        let a = document.getElementById("nhap1").value;
+        let b = document.getElementById("nhap2").value;
+        y = parseInt(a) - parseInt(b)
+        document.getElementById("results").value = y ;
+    }
+    function function3() {
+        let a = document.getElementById("nhap1").value;
+        let b = document.getElementById("nhap2").value;
+        z = parseInt(a) * parseInt(b)
+        document.getElementById("results").value = z ;
+    }
+
+    function function4() {
+        let a = document.getElementById("nhap1").value;
+        let b = document.getElementById("nhap2").value;
+        v = parseInt(a) / parseInt(b)
+        document.getElementById("results").value = v ;
+    }
+</script>
+</html>
