@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_kiem_tra_nam_nhuan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_luyen_tap_if_else.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_luyen_tap_if_else_if.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_luyen_tap_toan_tu_3_ngoi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_switch_case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/thuc_hanh/thuc_hanh_su_kien_chuot.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/thuc_hanh/thuc_hanh_su_kien_chuot.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/thuc_hanh/thuc_hanh_su_kien_chuot.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +102,7 @@
       <workItem from="1647662490195" duration="66000" />
       <workItem from="1647866881905" duration="4982000" />
       <workItem from="1647873387991" duration="1662000" />
-      <workItem from="1647915124150" duration="6156000" />
+      <workItem from="1647915124150" duration="7756000" />
     </task>
     <servers />
   </component>
