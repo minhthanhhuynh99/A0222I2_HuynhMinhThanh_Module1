@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss7_bien_va_du_lieu_toan_tu/bai_tap/bai_tap_bien_va_du_lieu_toan_tu_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7_bien_va_du_lieu_toan_tu/bai_tap/bai_tap_bien_va_du_lieu_toan_tu_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7_bien_va_du_lieu_toan_tu/bai_tap/bai_tap_bien_va_du_lieu_toan_tu_chu_vi_dien_tich.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7_bien_va_du_lieu_toan_tu/bai_tap/bai_tap_chuyen_doi_tien_te.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7_bien_va_du_lieu_toan_tu/bai_tap/bai_tap_may_tinh_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_kiem_tra_nam_nhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_luyen_tap_if_else.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_luyen_tap_if_else_if.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_luyen_tap_toan_tu_3_ngoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss8_cau_truc_dieu_kien_1/bai_thuc_hanh_switch_case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/thuc_hanh/thuc_hanh_su_kien_chuot.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,7 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="XHTML File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -102,6 +104,10 @@
       <workItem from="1647600018758" duration="12255000" />
       <workItem from="1647662054682" duration="126000" />
       <workItem from="1647662203753" duration="91000" />
+      <workItem from="1647662490195" duration="66000" />
+      <workItem from="1647866881905" duration="4982000" />
+      <workItem from="1647873387991" duration="1662000" />
+      <workItem from="1647915124150" duration="6156000" />
     </task>
     <servers />
   </component>
@@ -121,10 +127,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647363088323">
+    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647921331497">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647363088323" />
+    <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647921331497" />
     <state x="499" y="219" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647608289944">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
