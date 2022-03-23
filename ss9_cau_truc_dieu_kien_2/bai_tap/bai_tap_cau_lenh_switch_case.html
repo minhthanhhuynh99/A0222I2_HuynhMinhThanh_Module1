@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <label>Nhập tháng :</label>
+    <input type="text" id="ngay">
+    <button onclick="calendar()"> Tính số ngày</button>
+    </br></br>
+    <label>result</label>
+    <textarea id="kết quả"></textarea>
+    <script>
+        function calendar() {
+            let day= parseInt(document.getElementById("ngay").value);
+            let day2;
+            switch (day) {
+                case 1:
+                case 3:
+                case 5:
+                case 7:
+                case 11:
+                day2="31"; break;
+                case 2:
+                    day2="29 or 28";
+                    break;
+                case 4:
+                case 6:
+                case 8:
+                case 10:
+                case 12:
+                    day2="30";break;
+                    default: day2="không hợp lệ";
+            }
+            document.getElementById("kết quả").innerText=day2;
+        }
+    </script>
+</body>
+</html>

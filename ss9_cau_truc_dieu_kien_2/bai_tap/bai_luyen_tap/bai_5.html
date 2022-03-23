@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Xếp hạng học lực của học sinh dựa trên các điểm bài kiểm tra, điểm thi giữa kỳ, điểm thi cuối kỳ</title>
+</head>
+<body>
+<script>
+    let đkt = parseFloat(prompt("nhập điểm kiểm tra"));
+    let đtgk = parseFloat(prompt("nhập điểm thi giữa kì"));
+    let đtck = parseFloat(prompt("nhập điểm thi cuối kì"));
+    let đtb = parseFloat((đkt + đtgk * 2 + đtck * 3) / 6);
+     if (đtb >= 8) {
+         alert("loại giỏi");
+     } else if (đtb >= 7) {
+         alert("loại khá") ;
+     } else  if (đtb >= 5) {
+         alert("loại trung bình");
+     } else if (đtb <5 );
+        alert("loại yếu");
+</script>
+</body>
+</html>
