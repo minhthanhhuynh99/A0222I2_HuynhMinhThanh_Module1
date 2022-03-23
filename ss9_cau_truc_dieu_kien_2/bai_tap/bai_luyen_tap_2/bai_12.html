@@ -6,10 +6,14 @@
 </head>
 <body>
     <script>
-        let tv = parseFloat(prompt("nhập số tiền cần vay"));
-        let lx = (tv / 2 + 500000);
-            alert(lx);
-
+        // let tv = parseFloat(prompt("nhập số tiền cần vay"));
+        // let lx = (tv / 2 + 500000);
+        //     alert(lx);
+        let PV = parseInt(prompt("số vốn thời điểm hiện tại"));
+        let n = parseFloat("số tháng");
+        let i = (7 / 100);
+        let FV = PV * (1 + i)^n
+            document.write("lãi suất kép: "+ FV);
     </script>
 </body>
 </html>

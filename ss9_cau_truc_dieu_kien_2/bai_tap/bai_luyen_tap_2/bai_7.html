@@ -5,7 +5,22 @@
     <title>phương trình bậc 2</title>
 </head>
 <body>
+<p> x= b^2-4ac</p>
 <script>
+    let a = parseInt(prompt("nhập số nguyên a"));
+    let b = parseInt(prompt("nhập số nguyên b"));
+    let c = parseInt(prompt("nhập số nguyên c"))
+    let detal = b * b - 4 * a * c
+    let s = -b / (2 * a)
+    let x1 = (-b + Math.sqrt(detal)) / ( 2 * a)
+    let x2 = (-b - Math.sqrt(detal)) / ( 2 * a)
+    if (detal < 0) {
+        alert("phương trình vô nghiệm");
+    } else if (detal == 0) {
+        alert("phương trình có nghiệm kép" + s);
+    } else if (detal > 0) {
+        alert("phương trình có 2 nghiệm" + "x1="+ x1 + "  " + "x2="+x2);
+    }
 
 </script>
 </body>
