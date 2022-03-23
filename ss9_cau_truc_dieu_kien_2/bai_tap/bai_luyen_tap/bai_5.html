@@ -6,18 +6,18 @@
 </head>
 <body>
 <script>
-    let đkt = parseFloat(prompt("nhập điểm kiểm tra"));
-    let đtgk = parseFloat(prompt("nhập điểm thi giữa kì"));
-    let đtck = parseFloat(prompt("nhập điểm thi cuối kì"));
-    let đtb = parseFloat((đkt + đtgk * 2 + đtck * 3) / 6);
-     if (đtb >= 8) {
-         alert("loại giỏi");
-     } else if (đtb >= 7) {
-         alert("loại khá") ;
-     } else  if (đtb >= 5) {
-         alert("loại trung bình");
-     } else if (đtb <5 );
-        alert("loại yếu");
+    let dkt = parseFloat(prompt("nhập điểm kiểm tra"));
+    let dtgk = parseFloat(prompt("nhập điểm thi giữa kì"));
+    let dtck = parseFloat(prompt("nhập điểm thi cuối kì"));
+    let dtb = parseFloat((dkt + dtgk * 2 + dtck * 3) / 6);
+    if (dtb >= 8) {
+        alert("loại giỏi");
+    } else if (dtb >= 7) {
+        alert("loại khá");
+    } else if (dtb >= 5) {
+        alert("loại trung bình");
+    } else if (dtb < 5)
+    alert("loại yếu");
 </script>
 </body>
 </html>

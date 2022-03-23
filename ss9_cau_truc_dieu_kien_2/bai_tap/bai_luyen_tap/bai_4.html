@@ -6,15 +6,19 @@
 </head>
 <body>
 <script>
-    let n1 = prompt("số nguyên 1");
-    let n2 = prompt("số nguyên 2");
-    let n3 = prompt("số nguyên 3");
-    if (n1 > n2 && n1 > n3 )
+    let n1 = parseInt(prompt("số nguyên 1 "));
+    let n2 = parseInt(prompt("số nguyên 2"));
+    let n3 = parseInt(prompt("số nguyên 3"));
+    if (n1 > n2 && n1 > n3 ) {
         alert("n1 lớn nhất")
-    else if (n2 > n1 && n2 > n3)
+    } else if (n2 > n1 && n2 > n3) {
         alert("n2 lớn nhất");
-    else
+    }
+        else if (n2 > n1 && n2 > n3) {
+        alert("n2 lớn nhất");
+    } else
         alert("n3 lớn nhất");
+
 
 </script>
 </body>
