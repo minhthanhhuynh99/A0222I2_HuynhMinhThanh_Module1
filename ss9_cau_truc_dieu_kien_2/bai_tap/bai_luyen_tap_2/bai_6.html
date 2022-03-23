@@ -2,11 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Giải phương trình bậc 1.</title>
+    <title>Giải phương trình bậc 1</title>
 </head>
 <body>
-    <script>
-        
-    </script>
+<script>
+    let a= parseFloat(prompt("nhập hệ số a :"));
+    let b= parseFloat(prompt("nhập hệ số b :"));
+    if(a == 0) {
+        if (b == 0) {
+            alert("Phương trinh có nghiệm")
+        } else {
+            alert("Phương trinh vo nghiệm")
+        }
+    } else {
+        let s =(-b/a);
+        alert(s);
+    }
+</script>
 </body>
 </html>
