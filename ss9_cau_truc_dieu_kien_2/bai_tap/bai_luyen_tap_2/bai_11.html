@@ -7,13 +7,13 @@
 <body>
     <script>
         let stn = parseFloat(prompt("nhập tiền thu nhập cá nhân"));
-        if (stn < 1000000)
+        if (stn < 1000000){
             alert("số tiền thuế" + stn *0.5/100 );
-        else if (stn < 3000000)
+        } else if (stn < 3000000){
             alert("số tiền thuế" + stn /100 );
-        else if (stn < 5000000)
+        } else if (stn < 5000000) {
             alert("số tiến thuế" + stn * 1.5/100);
-        else
+        } else
             alert("số tiền thuế" + stn * 3 / 100);
     </script>
 </body>

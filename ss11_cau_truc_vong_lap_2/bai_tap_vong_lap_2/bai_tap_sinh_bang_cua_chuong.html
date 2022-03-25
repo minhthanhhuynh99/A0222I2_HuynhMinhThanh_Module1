@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>sinh bảng cửu chương</title>
+</head>
+<body>
+
+<script>
+     let bcc
+        bcc = "<table border='4' width='1000' cellspacing='0' cellpadding='3'>"
+     for(let hn=1;hn<=9;hn++){
+         bcc += "<tr>"
+         for(let hd=2;hd<=9;hd++){
+             bcc += "<td>"+hd +" * "+ hn+" = "+hd*hn+"</td>";
+         }
+         bcc += "</tr>"
+     } bcc += "</table>";
+     document.write(bcc);
+</script>
+
+</body>
+</html>
