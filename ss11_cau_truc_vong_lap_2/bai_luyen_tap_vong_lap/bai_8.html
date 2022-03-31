@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let canTren = parseInt(prompt("từ"));
+    let canDuoi = parseInt(prompt("đến"));
+    let random = Math.floor(Math.random() * (canTren - canDuoi * 1) + canDuoi);
+    let dem = 0 ;
+    do {
+        let a = parseInt(prompt("nhập vào số bạn đoán"));
+        if (random === a){
+            alert("bạn đã đoán đúng");
+            break
+        }else if (random > a){
+            alert("mời bạn nhập số nhỏ hơn");
+            dem++ ;
+        }else {
+            alert("mời bạn nhập số lớn hơn");
+            dem++ ;
+        }
+        if (dem >= 3){
+            alert("bạn đã hết lượt chơi");
+            break
+        }
+
+    }while (true)
+
+</script>
+</body>
+</html>

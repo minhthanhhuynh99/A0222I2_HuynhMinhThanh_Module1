@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hãy viết một chương trình in ra các số từ 1 đến 100.</title>
+</head>
+<body>
+<script>
+    for (let number = 1; number <100; number++) {
+        if (number % 3 ==0 && number % 5 ==0){
+            document.write("fizzbuzz:" + number + "<br>")
+        } else if (number % 3 == 0){
+            document.write("fizz: " + number + "<br>")
+        } else if (number % 5 ==0 ){
+            document.write("buzz: " + number+"<br>")
+        }
+    }
+
+</script>
+</body>
+</html>
