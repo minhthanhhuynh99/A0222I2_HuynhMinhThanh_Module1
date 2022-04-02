@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>từ điển</title>
+</head>
+<body>
+<form>
+    <input type="text" id="thanh">
+    <input type="button" value="search" onclick="dictionnary()">
+    <p id="result"></p>
+    <script>
+        let tiengViet = ['chó','mèo','gà'];
+        let engLish = ['dog','cat','chickken'];
+        function dictionnary() {
+            let a = document.getElementById("thanh").value
+            console.log(a)
+            for (let i = 0; i < engLish.length ; i++) {
+                if(engLish[i] == a){
+                    document.getElementById("result").innerHTML = tiengViet[i];
+                }
+            }
+        }
+    </script>
+</form>
+</body>
+</html>

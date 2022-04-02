@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+    let x = prompt("nhập số lượng phần tử");
+    let arr= new Array(x)
+    let i =0
+    while (i < x){
+        arr[i]=prompt("nhập ptu thứ " + i);
+        i++
+    }
+    let first = 0;
+    let last = x.length - 1;
+    while (first < last) {
+        let b = x[first];
+        x[first] = x[last];
+        x[last] = b;
+        first++;
+        last--;
+    }
+    document.write(x);
+</script>
+</body>
+</html>

@@ -6,6 +6,24 @@
 </head>
 <body>
 <script>
+    let number=20;
+    let N =2;
+    let dem=0;
+    for( let count =0;  count < number; count++ ){
+        for( let i = 1 ; i <= N ;i++){
+            if(N % i ==0 ){
+                dem++
+            }
+            if(dem == 2){
+                document.write( '&nbsp'+N)
+            }
+
+        }
+        N++
+        dem=0
+
+
+    }
     
 </script>
 </body>
