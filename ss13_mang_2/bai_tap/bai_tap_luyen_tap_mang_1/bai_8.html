@@ -6,18 +6,23 @@
 </head>
 <body>
 <script>
-    let x = [1, 2, 3, 4, 5, 6];
-    let first = 0;
-    let last = x.length - 1;
-    while (first < last) {
-        let b = x[first];
-        x[first] = x[last];
-        x[last] = b;
-        first++;
-        last--;
-    }
-    document.write(x);
 
+    let arr =[], min = 0;
+
+    for (let i = 0; i <10 ; i++) {
+       arr[i]= parseInt(prompt("nhập số"));
+    }
+    document.write("Mảng bao gồm : "+ arr + "<br>");
+    for(let i = 0; i < arr.length - 1; i++) {
+        for(let j = i + 1; j < arr.length; j++) {
+            if(arr[i] < arr[j]) {
+                min = arr[i];
+                arr[i] = arr[j];
+                arr[j] = min;
+            }
+        }
+    }
+    document.write(arr);
 </script>
 </body>
 </html>
