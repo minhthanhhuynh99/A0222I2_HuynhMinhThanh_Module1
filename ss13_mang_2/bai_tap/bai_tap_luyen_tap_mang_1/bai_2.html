@@ -5,19 +5,21 @@
     <title>Title</title>
 </head>
 <body>
+    <button type="button" onclick="bai2()"> Bài tập 2</button>
 <script>
-
-    let myArray =[1,2,3,4,5,17,21,6,11,5];
-    document.write("các phần tử của mảng: "+myArray + '<br>')
-    let max=myArray[0];
-    let viTri=0;
-    for (let i = 0; i < myArray.length ; i++) {
-        if (myArray[i] > max){
-            max=myArray[i]
-            viTri=i
-        }
-    }document.write('phần tử lớn nhất' + max )
-    document.write('vi trí: ' + viTri )
+    function bai2 (){
+        let myArray =[1,2,3,4,5,17,21,6,11,5];
+        document.write("các phần tử của mảng: "+myArray + '<br>')
+        let max=myArray[0];
+        let viTri=0;
+        for (let i = 0; i < myArray.length ; i++) {
+            if (myArray[i] > max){
+                max=myArray[i]
+                viTri=i
+            }
+        }document.write('phần tử lớn nhất' + max )
+        document.write('vi trí: ' + viTri )
+    }
 
 </script>
 </body>

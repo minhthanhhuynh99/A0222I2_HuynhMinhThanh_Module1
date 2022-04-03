@@ -6,18 +6,15 @@
 </head>
 <body>
 <script>
-    let n = prompt("nhập số lượng kí tự");
-    let arr = new Array(n);
-    for (let i = 0; i < n; i++) {
-        arr[i] = prompt("nhập kí tự thứ :" + i);
-    }
-    for(let i=0;i<n;i++){
-        if(arr[i]=='-'){
-            document.write(arr[i]='_');
+    let myArray=["chó-mèo-gà-vịt-cá"]
+    document.write("mảng trước khi đổi: "+ myArray + "<br>");
+    for (let i = 0; i <=myArray.length ; i++) {
+        if(myArray[i]==="-"){
+            document.write(myArray[i]="_");
         }
-
     }
-    document.write("mảng phần tử sau khi đổi:" + arr.join());
+    document.write("mảng sau khi đổi: "+myArray.join("_"));
+
 </script>
 </body>
 </html>
