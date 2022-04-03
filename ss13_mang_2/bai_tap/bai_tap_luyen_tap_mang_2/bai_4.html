@@ -6,14 +6,10 @@
 </head>
 <body>
 <script>
-    let s=prompt("nhập vào 1 chuỗi dũ liệu :");
-    s=s.replace(/\s+/g, ' ')
-    let d=1;
-    for(let i=0;i<s.length;i++){
-        if(s[i]==" ")
-            d++;
-    }
-    alert("số từ :"+d);
+    let arr = [];
+    arr =prompt('nhập dữ liệu');
+    let stt = Array.from(arr);
+    document.write(stt);
 </script>
 </body>
 </html>

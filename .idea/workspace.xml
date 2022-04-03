@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/bai_tap_luyen_tap_mang_2/bai_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/bai_tap_luyen_tap_mang_2/bai_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/bai_tap_luyen_tap_mang_1/bai_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/bai_tap_luyen_tap_mang_1/bai_9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss13_mang_2/bai_tap/bai_tap_su_dung_cac_ham_co_san_cua_mang/bai_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/bai_tap_su_dung_cac_ham_co_san_cua_mang/bai_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss13_mang_2/bai_tap/bai_tap_luyen_tap_mang_2/bai_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/bai_tap_luyen_tap_mang_2/bai_4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,8 @@
       <workItem from="1648880602586" duration="593000" />
       <workItem from="1648891059578" duration="1900000" />
       <workItem from="1648894144401" duration="23000" />
-      <workItem from="1648915631060" duration="4622000" />
+      <workItem from="1648915631060" duration="6831000" />
+      <workItem from="1648958423098" duration="3111000" />
     </task>
     <servers />
   </component>
