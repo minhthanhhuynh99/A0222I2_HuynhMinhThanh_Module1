@@ -7,23 +7,17 @@
 <body>
 <script>
 
-    let x = prompt("nhập số lượng phần tử");
-    let arr= new Array(x)
-    let i =0
-    while (i < x){
-        arr[i]=prompt("nhập ptu thứ " + i);
-        i++
-    }
+   let myArray=[1,2,3,4,5,17,21,6,11,5];
     let first = 0;
-    let last = x.length - 1;
+    let last = myArray.length - 1;
     while (first < last) {
-        let b = x[first];
-        x[first] = x[last];
-        x[last] = b;
+        let b = myArray[first];
+        myArray[first] = myArray[last];
+        myArray[last] = b;
         first++;
         last--;
     }
-    document.write(x);
+    document.write("sau khi đảo; " +myArray);
 </script>
 </body>
 </html>

@@ -6,22 +6,19 @@
 </head>
 <body>
 <script>
-    let n = parseInt(prompt("nhập số lượng phần tử"));
-    let arr = [];
-    for (let i = 0; i <n; i++) {
-        let tmp = prompt("nhập ptu thứ " + i);
-        arr[i]=tmp;
-    }
-    var max=arr[0];
-    var ind=0;
-    for (let i = 0; i <=n; i++) {
-        if(arr[i]>max){
-            max=arr[i];
-            ind=i;
+
+    let myArray =[1,2,3,4,5,17,21,6,11,5];
+    document.write("các phần tử của mảng: "+myArray + '<br>')
+    let max=myArray[0];
+    let viTri=0;
+    for (let i = 0; i < myArray.length ; i++) {
+        if (myArray[i] > max){
+            max=myArray[i]
+            viTri=i
         }
-    }
-    document.write("các giá trị của mảng :"+arr.toString()+"<br>");
-    document.write("phần tử lớn nhất là : "+max+" vị trí :"+ind);
+    }document.write('phần tử lớn nhất' + max )
+    document.write('vi trí: ' + viTri )
+
 </script>
 </body>
 </html>

@@ -6,19 +6,16 @@
 </head>
 <body>
 <script>
-    let n = parseInt(prompt("nhập số lượng phần tử"));
-    let arr = new Array(n);
-    for (let i = 0; i < n; i++) {
-        let tmp = prompt("nhập ptu thứ " + i);
-        arr[i] = tmp;
-    }
-    let d = 0;
-    for (let i = 0; i < arr.length; i++) {
-        if(arr[i]>10){
-            d++;
+     let myArray=[1,2,3,4,5,17,21,6,11,5];
+    document.write("số phần tử của mảng"+myArray +'<br>' );
+    for (let i = 0; i <myArray.length ; i++) {
+        if(myArray[i] > 10){
+            document.write("số lớn hơn 10: " + myArray[i] + '<br>')
         }
     }
-    document.write("số phần tử lớn hơn 10 là : "+d);
+
+
+
 </script>
 </body>
 </html>
