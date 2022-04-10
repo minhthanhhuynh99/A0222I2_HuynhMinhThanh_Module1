@@ -6,15 +6,15 @@
 </head>
 <body>
 <script>
-    let myArray=["chó-mèo-gà-vịt-cá"]
-    document.write("mảng trước khi đổi: "+ myArray + "<br>");
-    for (let i = 0; i <=myArray.length ; i++) {
-        if(myArray[i]==="-"){
-            document.write(myArray[i]="_");
+    let myArray = prompt("nhập vào một mảng kí tự : ");
+    let newArray= myArray.split("");
+    document.write("mảng trước khi đổi: "+ myArray)
+    for (let i in newArray) {
+        if (myArray[i] === "-"){
+            myArray[i] = "_";
         }
     }
-    document.write("mảng sau khi đổi: "+myArray.join("_"));
-
+    document.write("mảng sau khi đổi : " + newArray.join(""));
 </script>
 </body>
 </html>

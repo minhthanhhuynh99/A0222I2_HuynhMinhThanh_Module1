@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script>
+        function bai5() {
+            let a = parseInt(prompt('nhập vào số nguyên a: '))
+            let b = parseInt(prompt('nhập vào số nguyên b: '))
+            let c = parseInt(prompt('nhập vào số nguyên c: '))
+                if (a < b && a < c){
+                    document.write('a là số nhỏ nhất' + a)
+                } else if (b < a && b < c){
+                    document.write('b là số nhỏ nhất' + b)
+                } else if (c < a && c < b){
+                    document.write('c là số nhỏ nhất' + c)
+                }
+        }
+        bai5();
+    </script>
+</body>
+</html>

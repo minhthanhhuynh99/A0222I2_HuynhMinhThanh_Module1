@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let myArray1 =["Polaris" , "Aldebaran" , "Deneb" , "Vega" , "Altair" , "Dubhe" , "Regulus"];
+    let myArray2 =["Ursa Minor", "Tarurus", "Cygnus", "Lyra", "Aquila", "Ursa Major" ,"Leo"];
+    function name1() {
+        let check= prompt("nhập vào chuỗi 1:")
+        for (let i = 0; i <myArray2.length ; i++) {
+            if (check == myArray2[i]){
+                document.write(myArray1[i])
+            }else{
+                document.write("mời nhập lại chuỗi 1" + "<br>");break;
+            }
+        }
+    }
+    function name2() {
+        let check= prompt("nhập vào chuỗi 2 :")
+        for (let i = 0; i <myArray1.length ; i++) {
+            if (check == myArray1[i]){
+                document.write(myArray2[i])
+            }else{
+                document.write("mời nhập lại chuỗi 2");break;
+            }
+        }
+    }
+    name1()
+    name2()
+</script>
+
+</body>
+</html>

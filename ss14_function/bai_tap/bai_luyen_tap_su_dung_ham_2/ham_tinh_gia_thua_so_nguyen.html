@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tính giai thua so nguyen</title>
+</head>
+<body>
+<script>
+    let number = parseInt(prompt("nhập vào một số nguyên: "))
+    function giaiThua() {
+        let giaithua = 1;
+        for (let i = 1; i <= number ; i++) {
+            giaithua*=i
+        }
+        document.write("giai thừa của số nguyên là: " + giaithua)
+
+    }
+    giaiThua()
+</script>
+</body>
+</html>

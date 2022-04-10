@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tính diện tích, chu vi hình tròn</title>
+</head>
+<body>
+<script>
+    function hinhTron() {
+        let numberR = parseInt(prompt("nhập vào bán kính hình tròn : "));
+        let pi = 3.14;
+        let chuVi = (2 * pi )* numberR;
+        let dienTich = (numberR ^ 2)*pi;
+        document.write("chu vi hình tròn là : " , chuVi)
+        document.write("diện tích hình tròn là : " , dienTich)
+    }
+    hinhTron()
+</script>
+</body>
+</html>

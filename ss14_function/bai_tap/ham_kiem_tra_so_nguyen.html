@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>kiểm tra số nguyên tố</title>
+</head>
+<body>
+<script>
+    function kiem_tra_snt() {
+        let flag = true;
+        let number = prompt("nhập vào số nguyên tố")
+        if (number < 2){
+            flag = false;
+        }
+        else if (number === 2){
+            flag = true;
+        }
+        else if (number % 2 === 0){
+            flag = false;
+        }
+        else{
+
+            for (let i = 3; i < number-1; i+=2)
+            {
+                if (number % i === 0){
+                    flag = false;
+                    break;
+                }
+            }
+        }
+
+        if (flag === true){
+            document.write(number + " là số nguyên tố <br/>");
+        }
+        else{
+            document.write(number + " không phải là số nguyên tố <br/>");
+        }
+    }
+    kiem_tra_snt()
+</script>
+</body>
+</html>

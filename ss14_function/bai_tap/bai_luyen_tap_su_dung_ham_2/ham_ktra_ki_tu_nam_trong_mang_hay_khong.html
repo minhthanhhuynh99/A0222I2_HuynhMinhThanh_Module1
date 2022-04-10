@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function bai9() {
+        let number=[];
+        for (let i = 0; i < 5 ; i++) {
+            number[i]= prompt('nhập vào một mảng: ')
+        }
+        let a = prompt('nhập vào kí tự bất kì để kiểm tra : ')
+        let dem = 0;
+        for (let i of number) {
+            if(a === i)
+                dem++
+                document.write("số lần xuất hiện: " + i + dem)
+
+        }
+            if(dem ===0){
+                document.write('-1')
+            }
+    }
+
+    bai9()
+</script>
+</body>
+</html>
