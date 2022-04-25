@@ -20,16 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a22753ac-a166-42fc-88c0-8cf29695892f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss15_lap_trinh_huong_doi_tuong_1/bai_tap/xau_dung_doi_nhiet_do.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss15_lap_trinh_huong_doi_tuong_1/bai_tap/xay_dung_lop_mo_ta_hình chu_nhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss15_lap_trinh_huong_doi_tuong_1/thuc_hanh/xay_dung_lop_date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss15_lap_trinh_huong_doi_tuong_1/thuc_hanh/xay_dung_lop_hinh_tron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong_2/bai_tap/adam_eva.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong_2/bai_tap/cong_tac_bong_den.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong_2/bai_tap/mo_phong_den_pin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong_2/thuc_hanh/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_1_ve_hinh/bai_1_hcn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_1_ve_hinh/bai_2_ve_tam_giac_can_rong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_1_ve_hinh/bai_3_tam_giac_can.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_1_ve_hinh/bai_4_tam_giac_can_rong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_2_if_else/bai_1_tinh_luong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_2_if_else/bai_2_kiem_tra_phu_am_nguyen_am.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_3_array_loop/bai_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_3_array_loop/bai_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_3_array_loop/bai_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_3_array_loop/bai_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_3_array_loop/bai_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_4_string/bai_1_chuan_hoa_xau_ki_tu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_4_string/bai_2_dem_so_luong_ki_tu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_4_string/bai_3_tim_ki_tu_chung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_5_array_2d/bai_1_sum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_5_array_2d/bai_2_liet_ke.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/yeu_cau_5_array_2d/bai_3_max_min_aray_2d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong_2/thuc_hanh/on_tap.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss14_function/thuc_hanh/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14_function/thuc_hanh/text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11_cau_truc_vong_lap_2/bai_luyen_tap_vong_lap_2/bai_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss11_cau_truc_vong_lap_2/bai_luyen_tap_vong_lap_2/bai_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss15_lap_trinh_huong_doi_tuong_1/bai_tap/xay_dung_lop_mo_ta_hình chu_nhat.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss15_lap_trinh_huong_doi_tuong_1/bai_tap/xay_dung_lop_mo_ta_hình chu_nhat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong_2/bai_tap/adam_eva.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong_2/bai_tap/adam_eva.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong_2/thuc_hanh/text.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +63,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="265gNGbjCxfynSWCy2WoFwkASA7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -184,6 +201,12 @@
       <workItem from="1650081766496" duration="4725000" />
       <workItem from="1650107876750" duration="2508000" />
       <workItem from="1650111874607" duration="291000" />
+      <workItem from="1650279127416" duration="203000" />
+      <workItem from="1650284875693" duration="4584000" />
+      <workItem from="1650293825318" duration="34000" />
+      <workItem from="1650374373353" duration="644000" />
+      <workItem from="1650456282250" duration="585000" />
+      <workItem from="1650884334259" duration="6596000" />
     </task>
     <servers />
   </component>
@@ -201,6 +224,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="426" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648353582553">
@@ -231,5 +257,17 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1648095547714" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong_2/thuc_hanh/on_tap.html</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

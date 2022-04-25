@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // for(let i= 1;i<=4;i++) {
+    //     for(let j = 1;j<=5;j++){
+    //         if(i == 1 || j == 1 || i == 4 || j == 5){
+    //             document.write("*");
+    //         }else {
+    //             document.write("&nbsp"+"&nbsp");
+    //         }
+    //     }
+    //     document.write("<br>")
+    // }
+
+
+
+    var h=5;
+    var result="";
+    for(var i=0;i<h-1;i++){
+        for(var j=0;j<h;j++){
+            if(j==0||j==i){
+                result+="*";
+            }else{
+                result+=" ";
+            }
+        }
+        result+="\n";
+    }
+    for(var i=0;i<=h;i++){
+        result+="*";
+    }
+    console.log(result);
+
+    var h=5;
+    var result="";
+    for(var i=1;i<=h;i++){
+        for(var k=h;k>i;k--){
+            result+=" ";
+        }
+        for(var j=1;j<=(i*2)-1;j++){
+            result+="*";
+        }
+        result+="\n";
+    }
+    console.log(result);
+    var h=5;
+    var result="";
+    for(var i=1;i<=h;i++){
+        //can chinh
+        for(var k=h;k>i;k--){
+            result+=" ";
+        }
+        var x=(i*2)-1;
+        for(var j=1;j<=x;j++){
+            if(i==1||i==h||j==1||j==x)
+                result+="*";
+            else result+=" ";
+        }
+        result+="\n";
+    }
+    console.log(result);
+
+</script>
+</body>
+</html>
